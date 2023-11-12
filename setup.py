@@ -7,5 +7,5 @@ setup(
     author="DSSS",
     author_email="bruna.martin@fau.de",
     packages=find_packages(),
-    install_requires=["numpy", "unittest"],
+    install_requires=["numpy"],
 )
